@@ -1,0 +1,857 @@
+{
+    "CHAT":
+    {
+        "name": "Chatterbox 109",
+        "host": "Lazlow",
+        "description": "",
+
+        "track_list":
+        {
+            "1":
+            {
+                "name": "Dormatron",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:01:00",
+                "appearance_time": "00:01:00"
+            },
+            "2":
+            {
+                "name": "Maibatsu Monstrosity",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:14",
+                "appearance_time": "00:02:00"
+            },
+            "3":
+            {
+                "name": "Equanox",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:43",
+                "appearance_time": "00:05:21"
+            },
+            "4":
+            {
+                "name": "Liberty City Survivor",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:44",
+                "appearance_time": "00:06:04"
+            },
+            "5":
+            {
+                "name": "House of Tomorrow",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:01:02",
+                "appearance_time": "00:10:48"
+            },
+            "6":
+            {
+                "name": "Pets Overnight",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:15",
+                "appearance_time": "00:20:58"
+            },
+            "7":
+            {
+                "name": "Rakin and Ponzer",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:40",
+                "appearance_time": "00:24:18"
+            },
+            "8":
+            {
+                "name": "Medieval Millenium Fair",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:01:23",
+                "appearance_time": "00:26:05"
+            },
+            "9":
+            {
+                "name": "Maibatsu Monstrosity",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:50",
+                "appearance_time": "00:33:13"
+            },
+            "10":
+            {
+                "name": "Pets Overnight",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:20",
+                "appearance_time": "00:34:03"
+            },
+            "11":
+            {
+                "name": "Eris Running Shoes",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:41",
+                "appearance_time": "00:40:21"
+            },
+            "12":
+            {
+                "name": "Pets Overnight",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:19",
+                "appearance_time": "00:41:02"
+            },
+            "13":
+            {
+                "name": "Fernando's New Beginnings",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:01:01",
+                "appearance_time": "00:50:10"
+            },
+            "14":
+            {
+                "name": "Pets Overnight",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:30",
+                "appearance_time": "00:51:11"
+            },
+            "15":
+            {
+                "name": "Pogo the Monkey",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:02:30",
+                "appearance_time": "00:56:33"
+            }
+        }
+    },
+    "CLASS":
+    {
+        "name": "Double Clef FM",
+        "host": "Morgan Merryweather",
+        "description": "",
+
+        "track_list": 
+        {
+            "1":
+            {
+                "name": "Non Piu Andrai Farfallone Amoroso",
+                "year": "1786-05-01",
+                "album": "Le nozze di Figaro",
+                "artist": "Wolfgang Amadeus Mozart (Performances by Sesto Bruscantini and Teresa Berganza with the RAI National Symphony Orchestra and Chorus)",
+                "length": "00:03:31",
+                "appearance_time": "00:00:09"
+            },
+            "2":
+            {
+                "name": "Dormitron",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:57",
+                "appearance_time": "00:03:57"   
+            },
+            "3":
+            {
+                "name": "House of Tomorrow",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:01:01",
+                "appearance_time": "00:04:55"   
+            },
+            "4":
+            {
+                "name": "Eris Running Shoes",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:40",
+                "appearance_time": "00:05:56"   
+            },
+            "5":
+            {
+                "name": "Libiamo Ne'lieti Calici",
+                "year": "2001",
+                "album": "La Traviata",
+                "artist": "Giuseppe Verdi (Performances by Renata Scotto, José Carreras and Sesto Bruscantini)",
+                "length": "00:03:02",
+                "appearance_time": "00:06:58"   
+            },
+            "6":
+            {
+                "name": "Chi Mi Frena in Tal Momento",
+                "year": "2001",
+                "album": "Lucia di Lammermoor",
+                "artist": "Gaetano Donizetti (Performances by Renata Scotto, Luciano Pavarotti and Piero Cappuccilli with the RAI National Symphony Orchestra and Chorus)",
+                "length": "00:03:35",
+                "appearance_time": "00:10:20"   
+            },
+            "7":
+            {
+                "name": "Fernando's New Beginnings",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:58",
+                "appearance_time": "00:14:08"   
+            },
+            "8":
+            {
+                "name": "Maibatsu Monstrosity",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:48",
+                "appearance_time": "00:15:07"   
+            },
+            "9":
+            {
+                "name": "La Donna è Mobile",
+                "year": "2001",
+                "album": "Rigoletto",
+                "artist": "Giuseppe Verdi (Performances by Luciano Pavarotti and Renata Scotto with the Orchestra and Chorus of Teatro Comunale of Florence)",
+                "length": "00:03:13",
+                "appearance_time": "00:16:05"   
+            },
+            "10":
+            {
+                "name": "Finch'han del Vino",
+                "year": "2001",
+                "album": "Don Giovanni",
+                "artist": "Wolfgang Amadeus Mozart (Performances by Sesto Bruscantini, Nicolai Ghiaurov and Alfredo Kraus with the RAI National Symphony Orchestra and Chorus)",
+                "length": "00:01:07",
+                "appearance_time": "00:19:26"   
+            }
+        }
+    },
+    "FLASH":
+    {
+        "name": "Flashback 95.6",
+        "host": "Toni",
+        "description": "",
+
+        "track_list": 
+        {
+            "1":
+            {
+                "name": "Rush Rush",
+                "year": "1983",
+                "album": "Single",
+                "artist": "Debbie Harry",
+                "length": "00:03:37",
+                "appearance_time": "00:00:03"   
+            },
+            "2":
+            {
+                "name": "Liberty City Survivor",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:45",
+                "appearance_time": "00:03:19"   
+            },
+            "3":
+            {
+                "name": "Shake It Up",
+                "year": "1983",
+                "album": "Single",
+                "artist": "Elizabeth Daily",
+                "length": "00:03:16",
+                "appearance_time": "00:04:04"   
+            },
+            "4":
+            {
+                "name": "Medieval Millenium Fair",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:03:37",
+                "appearance_time": "00:07:24"   
+            },
+            "5":
+            {
+                "name": "Push It To The Limit",
+                "year": "1983",
+                "album": "Single",
+                "artist": "Paul Engemann",
+                "length": "00:03:03",
+                "appearance_time": "00:08:46"   
+            },
+            "6":
+            {
+                "name": "She's On Fire",
+                "year": "1983",
+                "album": "Single",
+                "artist": "Amy Holland",
+                "length": "00:03:43",
+                "appearance_time": "00:11:17"   
+            },
+            "7":
+            {
+                "name": "Eris Running Shoes",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:42",
+                "appearance_time": "00:14:53"   
+            },
+            "8":
+            {
+                "name": "I'm Hot Tonight",
+                "year": "1983",
+                "album": "Single",
+                "artist": "Elizabeth Daily",
+                "length": "00:03:13",
+                "appearance_time": "00:15:36"   
+            },
+            "9":
+            {
+                "name": "Pets Overnight",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:16",
+                "appearance_time": "00:18:30"   
+            }
+        }
+    },
+    "GAME":
+    {
+        "name": "Game FM",
+        "host": "Stretch Armstrong and Lord Sear",
+        "description": "",
+
+        "track_list":
+        {
+            "1":
+            {
+                "name": "We're Live Danger",
+                "year": "2001",
+                "album": "The Rock City Mixtape",
+                "artist": "Royce Da 5'9\"",
+                "length": "00:01:40",
+                "appearance_time": "00:00:32"   
+            },
+            "2":
+            {
+                "name": "Nature Freestyle",
+                "year": "2000",
+                "album": "?",
+                "artist": "Nature",
+                "length": "00:01:05",
+                "appearance_time": "00:02:42"   
+            },
+            "3":
+            {
+                "name": "JoJo Pellegrino Freestyle",
+                "year": "2000",
+                "album": "?",
+                "artist": "JoJo Pellegrino",
+                "length": "00:01:11",
+                "appearance_time": "00:03:48"   
+            },
+            "4":
+            {
+                "name": "Pets Overnight",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:14",
+                "appearance_time": "00:05:00"   
+            },
+            "5":
+            {
+                "name": "Spit Game",
+                "year": "2000",
+                "album": "?",
+                "artist": "Royce Da 5'9\" and Pretty Ugly",
+                "length": "00:02:15",
+                "appearance_time": "00:05:20"   
+            },
+            "6":
+            {
+                "name": "I'm the King",
+                "year": "2000",
+                "album": "?",
+                "artist": "Royce Da 5'9\"",
+                "length": "00:02:40",
+                "appearance_time": "00:7:35"   
+            },
+            "7":
+            {
+                "name": "Liberty City Survivor",
+                "year": "2001",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:30",
+                "appearance_time": "00:10:15"   
+            },
+            "8":
+            {
+                "name": "By a Stranger",
+                "year": "2000",
+                "album": "?",
+                "artist": "Black Rob",
+                "length": "00:01:13",
+                "appearance_time": "00:11:37"   
+            },
+            "9":
+            {
+                "name": "Rising to the Top",
+                "year": "2000",
+                "album": "?",
+                "artist": "Agallah and Sean Price",
+                "length": "00:02:26",
+                "appearance_time": "00:12:50"   
+            }
+        }
+    },
+    "HEAD":
+    {
+        "name": "Head Radio",
+        "host": "Michael Hunt",
+        "description": "",
+
+        "track_list":
+        {
+            "1":
+            {
+                "name": "Stripe Summer",
+                "year": "2000",
+                "album": "?",
+                "artist": "Dil Don't",
+                "length": "00:02:15",
+                "appearance_time": "00:00:13"   
+            },
+            "2":
+            {
+                "name": "Pets Overnight",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:15",
+                "appearance_time": "00:02:41"   
+            },
+            "3":
+            {
+                "name": "Good Thing",
+                "year": "2000",
+                "album": "",
+                "artist": "Whatever",
+                "length": "00:02:11",
+                "appearance_time": "00:03:19"   
+            },
+            "4":
+            {
+                "name": "Fade Away",
+                "year": "2000",
+                "album": "",
+                "artist": "Craig Gray",
+                "length": "00:03:06",
+                "appearance_time": "00:06:11"   
+            },
+            "5":
+            {
+                "name": "Change",
+                "year": "2000",
+                "album": "",
+                "artist": "Cononr and Jay",
+                "length": "00:03:43",
+                "appearance_time": "00:09:31"   
+            },
+            "6":
+            {
+                "name": "Equanox",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:43",
+                "appearance_time": "00:12:21"   
+            },
+            "7":
+            {
+                "name": "See Through You",
+                "year": "2000",
+                "album": "",
+                "artist": "Frankie Fame",
+                "length": "00:02:55",
+                "appearance_time": "00:13:04"   
+            },
+            "8":
+            {
+                "name": "Electronic Go Go",
+                "year": "2000",
+                "album": "",
+                "artist": "Scatwerk",
+                "length": "00:02:24",
+                "appearance_time": "00:16:08"   
+            },
+            "9":
+            {
+                "name": "Rakin and Ponzer",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:38",
+                "appearance_time": "00:18:56"   
+            },
+            "10":
+            {
+                "name": "Life is But a Mere Supply",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "Dezma",
+                "length": "00:02:18",
+                "appearance_time": "00:19:34"   
+            },
+            "11":
+            {
+                "name": "Fernando's New Beginnings",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:01:00",
+                "appearance_time": "00:21:59"   
+            },
+            "12":
+            {
+                "name": "Pets Overnight",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "N/A",
+                "length": "00:00:28",
+                "appearance_time": "00:23:00"   
+            }
+        }
+    },
+    "KJAH":
+    {
+        "name": "K-Jah",
+        "host": "Horace 'The Pacificst' Walsh",
+        "description": "",
+        
+        "track_list":
+        {
+            "1":
+            {
+                "name": "Dance of the Vampires",
+                "year": "1981",
+                "album": "Scientist Rids the World of the Evil Curse of the Vampires",
+                "artist": "Scientist",
+                "length": "00:03:58",
+                "appearance_time": "00:00:03"   
+            },
+            "2":
+            {
+                "name": "Your Teeth in My Neck",
+                "year": "1981",
+                "album": "Scientist Rids the World of the Evil Curse of the Vampires",
+                "artist": "Scientist",
+                "length": "00:00:28",
+                "appearance_time": "00:04:01"   
+            },
+            "3":
+            {
+                "name": "The Corpse Rises",
+                "year": "1981",
+                "album": "Scientist Rids the World of the Evil Curse of the Vampires",
+                "artist": "Scientist",
+                "length": "00:04:39",
+                "appearance_time": "00:08:40"   
+            },
+            "4":
+            {
+                "name": "The Mummy's Shroud",
+                "year": "1981",
+                "album": "Scientist Rids the World of the Evil Curse of the Vampires",
+                "artist": "Scientist",
+                "length": "00:03:32",
+                "appearance_time": "00:12:12"   
+            },
+            "5":
+            {
+                "name": "Plague of Zombies",
+                "year": "1981",
+                "album": "Scientist Rids the World of the Evil Curse of the Vampires",
+                "artist": "Scientist",
+                "length": "00:04:23",
+                "appearance_time": "00:16:31"   
+            }
+        }
+    },
+    "LIPS":
+    {
+        "name": "Lips 106",
+        "host": "Andee",
+        "description": "",
+
+        "track_list":
+        {
+            "1":
+            {
+                "name": "Bump to the Music",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "Fatamarse",
+                "length": "00:02:11",
+                "appearance_time": "00:01:14"   
+            },
+            "2":
+            {
+                "name": "Pogo the Monkey",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "Fatamarse",
+                "length": "00:01:31",
+                "appearance_time": "00:03:27"   
+            },
+            "3":
+            {
+                "name": "Maibatsu Monstrosity",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "Fatamarse",
+                "length": "00:00:14",
+                "appearance_time": "00:05:08"   
+            },
+            "4":
+            {
+                "name": "Feels Like I Just Can't Take No More",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "April's in Paris",
+                "length": "00:03:17",
+                "appearance_time": "00:05:33"   
+            },
+            "5":
+            {
+                "name": "Forever",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "Lucy",
+                "length": "00:02:50",
+                "appearance_time": "00:08:50"   
+            },
+            "6":
+            {
+                "name": "Pray It Goes Ok?",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "Boyz 2 Girls",
+                "length": "00:04:40",
+                "appearance_time": "00:11:48"   
+            },
+            "7":
+            {
+                "name": "Grand Theft Auto",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "Da Shootaz",
+                "length": "00:02:44",
+                "appearance_time": "00:15:38"   
+            },
+            "8":
+            {
+                "name": "Rubber Tip",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "Funky BJs",
+                "length": "00:02:17",
+                "appearance_time": "00:17:39"   
+            }
+        }
+    },
+    "MSX": 
+    {
+        "name": "MSX FM",
+        "host": "MC Codebreaker",
+        "description": "",
+
+        "track_list": 
+        {
+            "1":
+            {
+                "name": "Quagmire",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "Calyx",
+                "length": "00:02:49",
+                "appearance_time": "00:00:00"   
+            },
+            "2":
+            {
+                "name": "Get Wild",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "Rascal & Klone",
+                "length": "00:03:03",
+                "appearance_time": "00:02:49"   
+            },
+            "3":
+            {
+                "name": "Judgement Day",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "Ryme Tyme",
+                "length": "00:02:09",
+                "appearance_time": "00:05:52"   
+            },
+            "4":
+            {
+                "name": "Force",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "Hex",
+                "length": "00:01:27",
+                "appearance_time": "00:08:01"   
+            },
+            "5":
+            {
+                "name": "First Contact",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "Omni Trio",
+                "length": "00:01:21",
+                "appearance_time": "00:09:28"   
+            },
+            "6":
+            {
+                "name": "Spectre",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "Aquasky",
+                "length": "00:01:48",
+                "appearance_time": "00:10:49"   
+            },
+            "7":
+            {
+                "name": "Winner Takes All",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "Rascal and Klone",
+                "length": "00:05:51",
+                "appearance_time": "00:12:37"   
+            },
+            "8":
+            {
+                "name": "T Minus",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "Ryme Tyme",
+                "length": "00:00:43",
+                "appearance_time": "00:17:28"   
+            },
+            "9":
+            {
+                "name": "Spasm",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "nCode",
+                "length": "00:01:26",
+                "appearance_time": "00:18:11"   
+            },
+            "10":
+            {
+                "name": "Monolith",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "D. Kay",
+                "length": "00:03:31",
+                "appearance_time": "00:19:37"   
+            },
+            "11":
+            {
+                "name": "Iceberg",
+                "year": "2000",
+                "album": "Advertisements",
+                "artist": "Dom & Ryme Tyme",
+                "length": "00:01:49",
+                "appearance_time": "00:23:11"   
+            }
+        }
+    },
+    "RISE": 
+    {    
+        "name": "Rise FM",
+        "host": "Andre The Accelerator",
+        "description": "",
+
+        "track_list":
+        {
+            "1":
+            {
+                "name": "Shake (Revolt Clogrock Remix)",
+                "year": "2001",
+                "album": "",
+                "artist": "Chris Walsh & Dave Beran",
+                "length": "00:01:35",
+                "appearance_time": "00:00:00"   
+            },
+            "2":
+            {
+                "name": "Deep Time",
+                "year": "2000",
+                "album": "",
+                "artist": "Shiver",
+                "length": "00:05:18",
+                "appearance_time": "00:01:35"   
+            },
+            "3":
+            {
+                "name": "Innerbattle",
+                "year": "2001",
+                "album": "",
+                "artist": "R.R.D.S.",
+                "length": "00:02:30",
+                "appearance_time": "00:06:53"   
+            },
+            "4":
+            {
+                "name": "Score (Original Mix)",
+                "year": "2000",
+                "album": "",
+                "artist": "Slyder",
+                "length": "00:05:31",
+                "appearance_time": "00:09:23"   
+            },
+            "5":
+            {
+                "name": "Neo (The One)",
+                "year": "2000",
+                "album": "",
+                "artist": "Slyder",
+                "length": "00:06:54",
+                "appearance_time": "00:14:01"   
+            },
+            "6":
+            {
+                "name": "Shake (Revolt Clogrock Remix)",
+                "year": "2001",
+                "album": "",
+                "artist": "Chris Walsh & Dave Beran",
+                "length": "00:05:14",
+                "appearance_time": "00:20:55"   
+            }
+        }
+    }
+}

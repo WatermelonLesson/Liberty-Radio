@@ -1,0 +1,981 @@
+{
+    "EMOTION":
+    {
+        "name": "Emotion 98.3",
+        "host": "Fernando Martinez",
+        "description": "",
+
+        "track_list":
+        {
+            "1":
+            {
+                "name": "Waiting for a Girl Like You",
+                "artist": "Foreigner",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:00:21"
+            },
+            "2":
+            {
+                "name": "Wow",
+                "artist": "Kate Bush",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:05:29"
+            },
+            "3":
+            {
+                "name": "Tempted",
+                "artist": "Squeeze",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:10:23"
+            },
+            "4":
+            {
+                "name": "Keep on Loving You",
+                "artist": "REO Speedwagon",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:04:07"
+            },
+            "5":
+            {
+                "name": "(I Just) Died in Your Arms Tonight",
+                "artist": "Cutting Crew",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:17:21"
+            },
+            "6":
+            {
+                "name": "More Than This",
+                "artist": "Roxy Music",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:21:40"
+            },
+            "7":
+            {
+                "name": "Africa",
+                "artist": "Toto",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:28:00"
+            },
+            "8":
+            {
+                "name": "Broken Wings",
+                "artist": "Mr. Mister",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:32:11"
+            },
+            "9":
+            {
+                "name": "Missing You",
+                "artist": "John Waite",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:36:59"
+            },
+            "10":
+            {
+                "name": "Crockett's Theme",
+                "artist": "Jon Hammer",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:41:59"
+            },
+            "11":
+            {
+                "name": "Sister Christian",
+                "artist": "Night Ranger",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:46:16"
+            },
+            "12":
+            {
+                "name": "Never Too Much",
+                "artist": "Luther Vandross",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:52:57"
+            }
+        }
+    },
+
+    "ESPANT":
+    {
+        "name": "Espantoso",
+        "host": "",
+        "description": "",
+
+        "track_list":
+        {
+            "1":
+            {
+                "name": "A Gozar Mi Combo",
+                "artist": "Cachao",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:00:00"
+            },
+            "2":
+            {
+                "name": "The Bull is Wrong",
+                "artist": "Alpha Banditos",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:05:36"
+            },
+            "3":
+            {
+                "name": "Yo Te Mire",
+                "artist": "Tres Apena Como Eso",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:09:17"
+            },
+            "4":
+            {
+                "name": "Latin Flute",
+                "artist": "Deodato",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:14:38"
+            },
+            "5":
+            {
+                "name": "Mama Papa Tu",
+                "artist": "Mongo Santamaria",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:18:28"
+            },
+            "6":
+            {
+                "name": "Picao y Tostao",
+                "artist": "Mongo Santamaria",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:23:23"
+            },
+            "7":
+            {
+                "name": "Mambo Mucho Mambo",
+                "artist": "Machito and His Afro-Cuban Orchestra",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:27:50"
+            },
+            "8":
+            {
+                "name": "La Vida Es Una Lenteja",
+                "artist": "Unaesta",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:30:55"
+            },
+            "9":
+            {
+                "name": "Expansions",
+                "artist": "Lonnie Linston Smith",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:35:57"
+            },
+            "10":
+            {
+                "name": "Anunga Nunga",
+                "artist": "Irakere",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:39:32"
+            },
+            "11":
+            {
+                "name": "Super Strut",
+                "artist": "Deodato",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:45:25"
+            },
+            "12":
+            {
+                "name": "Jamay",
+                "artist": "Xavier Cugat and His Orchestra",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:52:00"
+            },
+            "13":
+            {
+                "name": "Maracaibo Oriental",
+                "artist": "Benny More",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:54:50"
+            },
+            "14":
+            {
+                "name": "Mambo Gozon",
+                "artist": "Tito Puente",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:58:58"
+            }
+        }
+    },
+
+    "FEVER":
+    {
+        "name": "Fever",
+        "host": "",
+        "description": "",
+
+        "track_list":
+        {
+            "1":
+            {
+                "name": "And the Beat Goes On",
+                "artist": "The Whispers",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:00:15"
+            },
+            "2":
+            {
+                "name": "Act Like You Know",
+                "artist": "Fat Larry's Band",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:04:31"
+            },
+            "3":
+            {
+                "name": "Get Down Saturday Night",
+                "artist": "Oliver Cheatham",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:09:30"
+            },
+            "4":
+            {
+                "name": "Automatic",
+                "artist": "Pointer Sisters",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:16:20"
+            },
+            "5":
+            {
+                "name": "I'll Be Good",
+                "artist": "Rene & Angela",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:20:40"
+            },
+            "6":
+            {
+                "name": "All Night Long",
+                "artist": "Mary Jane Girls",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:24:50"
+            },
+            "7":
+            {
+                "name": "Ghetto Life",
+                "artist": "Rick James",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:30:34"
+            },
+            "8":
+            {
+                "name": "Wanna Be Starting Something",
+                "artist": "Michael Jackson",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:34:43"
+            },
+            "9":
+            {
+                "name": "Shame",
+                "artist": "Evelyn King",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:40:41"
+            },
+            "10":
+            {
+                "name": "Behind the Groove",
+                "artist": "Teena Marie",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:46:10"
+            },
+            "11":
+            {
+                "name": "Juicy Fruit",
+                "artist": "Mitume",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:49:22"
+            },
+            "12":
+            {
+                "name": "Summer Madness",
+                "artist": "Kool & The Gang",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:53:43"
+            },
+            "13":
+            {
+                "name": "Last Night a D.J. Saved My Life",
+                "artist": "Indeep",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:58:50"
+            }
+        }
+    },
+
+    "FLASH":
+    {
+        "name": "Flash FM",
+        "host": "Toni",
+        "description": "",
+
+        "track_list":
+        {
+            "1":
+            {
+                "name": "Out of Time",
+                "artist": "Hall & Oates",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:00:08"
+            },
+            "2":
+            {
+                "name": "Dance Hall Days",
+                "artist": "Wang Chung",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:04:14"
+            },
+            "3":
+            {
+                "name": "Billie Jean",
+                "artist": "Michael Jackson",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:07:28"
+            },
+            "4":
+            {
+                "name": "Self Control",
+                "artist": "Laura Branigan",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:11:37"
+            },
+            "5":
+            {
+                "name": "Call Me",
+                "artist": "Go West",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:16:18"
+            },
+            "6":
+            {
+                "name": "Kiss the Dirt (Falling Down the Mountain)",
+                "artist": "inxs",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:19:46"
+            },
+            "7":
+            {
+                "name": "Run to You",
+                "artist": "Bryan Adams",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:24:31"
+            },
+            "8":
+            {
+                "name": "Four Little Diamonds",
+                "artist": "Electric Light Orchestra",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:28:00"
+            },
+            "9":
+            {
+                "name": "Owner of a Lonely Heart",
+                "artist": "Yes",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:31:55"
+            },
+            "10":
+            {
+                "name": "Video Killed the Radio Star",
+                "artist": "The Buggles",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:36:08"
+            },
+            "11":
+            {
+                "name": "Japanese Boy",
+                "artist": "Aneka",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:39:27"
+            },
+            "12":
+            {
+                "name": "Life's What You Make It",
+                "artist": "Talk Talk",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:44:31"
+            },
+            "13":
+            {
+                "name": "Your Love",
+                "artist": "The Outfield",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:48:04"
+            },
+            "14":
+            {
+                "name": "Steppin' Out",
+                "artist": "Joe Jackson",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:52:52"
+            },
+            "15":
+            {
+                "name": "One Thing Leads to Another",
+                "artist": "The Fixx",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:56:09"
+            }
+        }
+    },
+    "KCHAT":
+    {
+        "name": "K-CHAT",
+        "host": "Amy S",
+        "description": "",
+
+        "track_list": {}
+    },
+    "VCPR":
+    {
+        "name": "Vice City Public Radio (VCPR)",
+        "host": "Maurice Chavez",
+        "description": "",
+
+        "track_list": {}
+    },
+    "VROCK":
+    {
+        "name": "V-ROCK",
+        "host": "Lazlow",
+        "description": "",
+
+        "track_list":
+        {
+            "1":
+            {
+                "name": "I Wanna Rock",
+                "artist": "Twisted Sister",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:00:07"
+            },
+            "2":
+            {
+                "name": "Too Young to Fall in Love",
+                "artist": "Motley Crue",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:03:06"
+            },
+            "3":
+            {
+                "name": "Cum on Feel the Noize",
+                "artist": "Quiet Riot",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:08:29"
+            },
+            "4":
+            {
+                "name": "She Sells Sanctuary",
+                "artist": "The Cult",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:14:25"
+            },
+            "5":
+            {
+                "name": "Dangerous Bastard",
+                "artist": "Love Fist",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:21:30"
+            },
+            "6":
+            {
+                "name": "2 Minutes to Midnight",
+                "artist": "Iron Maiden",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:25:32"
+            },
+            "7":
+            {
+                "name": "Working for the Weekend",
+                "artist": "Loverboy",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:33:12"
+            },
+            "8":
+            {
+                "name": "God Blessed Video",
+                "artist": "Alcatrazz",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:37:46"
+            },
+            "9":
+            {
+                "name": "Cumin' Atcha Live",
+                "artist": "Tesla",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:41:20"
+            },
+            "10":
+            {
+                "name": "Turn Up The Radio",
+                "artist": "Autograph",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:45:00"
+            },
+            "11":
+            {
+                "name": "Peace Sells",
+                "artist": "Megadeath",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:49:26"
+            },
+            "12":
+            {
+                "name": "Madhouse",
+                "artist": "Anthrax",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:54:18"
+            },
+            "13":
+            {
+                "name": "Raining Blood",
+                "artist": "Slayer",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:58:18"
+            },
+            "14":
+            {
+                "name": "You've Got Another Thing",
+                "artist": "Judas Priest",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "01:01:41"
+            },
+            "15":
+            {
+                "name": "Fist Fury",
+                "artist": "Love Fist",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "01:06:10"
+            }
+        }
+    },
+    "WAVE":
+    {
+        "name": "",
+        "host": "",
+        "description": "",
+
+        "track_list": 
+        {
+            "1":
+            {
+                "name": "Two Tribes",
+                "artist": "Frankie Goes to Hollywood",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:00:08"
+            },
+            "2":
+            {
+                "name": "Love Missile",
+                "artist": "Sigue Sputnik",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:04:43"
+            },
+            "3":
+            {
+                "name": "Cars",
+                "artist": "Gary Numan",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:08:12"
+            },
+            "4":
+            {
+                "name": "(Keep Feeling) Fascination",
+                "artist": "The Human League",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:11:27"
+            },
+            "5":
+            {
+                "name": "Atomic",
+                "artist": "Blondie",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:16:57"
+            },
+            "6":
+            {
+                "name": "99 Luftballoons",
+                "artist": "Nena",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:20:49"
+            },
+            "7":
+            {
+                "name": "Kids in America",
+                "artist": "Kim Wilde",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:24:06"
+            },
+            "8":
+            {
+                "name": "Pale Shelter",
+                "artist": "Tears for Fears",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:27:22"
+            },
+            "9":
+            {
+                "name": "Sunglasses at Night",
+                "artist": "Corey Hart",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:32:22"
+            },
+            "10":
+            {
+                "name": "Poison Arrow",
+                "artist": "ABC",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:36:02"
+            },
+            "11":
+            {
+                "name": "I Ran (So Far Away)",
+                "artist": "Flock of Seagulls",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:38:18"
+            },
+            "12":
+            {
+                "name": "Love My Way",
+                "artist": "Psychedelic Furs",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:44:59"
+            },
+            "15":
+            {
+                "name": "Obsession",
+                "artist": "Animotion",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:48:12"
+            },
+            "16":
+            {
+                "name": "Gold",
+                "artist": "Spandau Ballet",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:53:08"
+            },
+            "17":
+            {
+                "name": "Hyperactive",
+                "artist": "Thomas Dolby",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:57:01"
+            },
+            "18":
+            {
+                "name": "Never Say Never",
+                "artist": "Romeo Void",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "01:01:06"
+            }
+        }
+    },
+
+    "WILD": {
+        "name": "",
+        "host": "",
+        "description": "",
+
+        "track_list": {
+            "1":
+            {
+                "name": "Pump Me Up",
+                "artist": "Trouble Funk",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:00:00"
+            },
+            "2":
+            {
+                "name": "One For The Treble",
+                "artist": "Davy DMX",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:04:35"
+            },
+            "3":
+            {
+                "name": "Clear",
+                "artist": "Cybotron",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:08:48"
+            },
+            "4":
+            {
+                "name": "Rockit",
+                "artist": "Herbie Hancock",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:11:43"
+            },
+            "5":
+            {
+                "name": "looking for the perfect beat",
+                "artist": "afrika bambaataa",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:18:50"
+            },
+            "6":
+            {
+                "name": "Get It Girl",
+                "artist": "2 Live Crew",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:25:38"
+            },
+            "7":
+            {
+                "name": "Rock Box",
+                "artist": "Run D.M.C.",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:29:28"
+            },
+            "8":
+            {
+                "name": "Mantronix",
+                "artist": "Bassline",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:33:55"
+            },
+            "9":
+            {
+                "name": "Tyrone Brunson",
+                "artist": "The Smurf",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:37:38"
+            },
+            "10":
+            {
+                "name": "Magic's Wand",
+                "artist": "Whodini",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:41:37"
+            },
+            "11":
+            {
+                "name": "Zapp",
+                "artist": "More Bounce to the Ounce",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:46:54"
+            },
+            "12":
+            {
+                "name": "The Message",
+                "artist": "Grandmaster Flash",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:51:45"
+            },
+            "13":
+            {
+                "name": "The Breaks",
+                "artist": "Kurtis Blow",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "00:58:00"
+            },
+            "14":
+            {
+                "name": "Hip Hop, Be Bop",
+                "artist": "Man Parrish",
+                "album": "",
+                "year": "",
+                "length": "",
+                "appearance_time": "01:02:40"
+            }
+        }
+    }
+}

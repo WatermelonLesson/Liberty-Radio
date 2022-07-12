@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Grand Theft Radio</title>
+
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+        <link rel="stylesheet" type="text/css" href="css/audio.css">
+    </head>
+
+    <body>
+        <form class="audio-upload">
+            <input type="file" id="audio-file-input" multiple required>
+            <input type="submit">
+        </form>
+
+        <figure>
+            <figcaption>Now Playing <span id="now-playing-song"></span> by <span id="now-playing-artist"></span> on <span id="now-playing-station"></span></figcaption>
+
+            <audio autoplay muted controls></audio>
+        </figure>
+
+        <aside>
+            <form class="audio-options">
+                <select id="select-location">
+                    <option value="-1" selected>-- Upload audio files first --</option>
+                    <option value="0"  disabled>Liberty City</option>
+                    <option value="1"  disabled>Vice City</option>
+                    <option value="2"  disabled>San Andreas</option>
+                </select>
+
+                <select id="select-radio-station">
+                    <option value="NONE"  selected>-- Choose a City First --</option>
+                    <option value="CHAT"  disabled>Chatterbox</option>
+                    <option value="CLASS" disabled>Double Clef FM</option>
+                    <option value="HEAD"  disabled>Head Radio</option>
+                    <option value="FLASH" disabled>Flashback 95.6</option>
+                    <option value="GAME"  disabled>Game Radio</option>
+                    <option value="KJAH"  disabled>K-JAH</option>
+                    <option value="LIPS"  disabled>Lips 106</option>
+                    <option value="MSX"   disabled>MSX FM</option>
+                    <option value="RISE"  disabled>Rise FM</option>
+                </select>
+
+                <button type="button" id="button-prev-track" disabled>Previous Track</button>
+                <button type="button" id="button-next-track" disabled>Next Track</button>
+            </form>
+        </aside>
+
+        <script src="js/meta.js"></script>
+        <script src="js/audio.js"></script>
+        <script src="js/handlers.js"></script>
+        
+        <script>
+            retrieveJSON();
+
+            document.querySelector("form.audio-upload").addEventListener("click", handleEvent);
+            document.querySelector("form.audio-options").addEventListener("click", handleEvent);
+
+            document.querySelector("audio").addEventListener("ended", handleEvent); 
+        </script>
+    </body>
+</html>

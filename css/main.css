@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+:root {
+    --font-family: 'Arial', 'Verdana', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 10px;
+    font-family: var(--font-family);
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+
+    display: grid;
+
+    align-items: center;
+    justify-content: center;
+}
